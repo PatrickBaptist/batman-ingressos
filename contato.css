@@ -75,6 +75,20 @@ label {
     margin: 8px;
 }
 
+input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+textarea {
+    max-width: 300px;
+    max-height: 200px;
+    min-width: 300px;
+    min-height: 200px;
+    padding: 3px;
+    color: #fff;
+}
+
 .button-contato {
     width: 200px;
     height: 60px;
